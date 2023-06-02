@@ -1,6 +1,5 @@
 import ipaddress
 
-
 def generate_subnet_details(subnet_name, zone_name, vlan_id, subnet_cidr):
     subnet_details = {}
 
